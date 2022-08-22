@@ -1,0 +1,59 @@
+.block{
+    background-color: rgb(249, 249, 241);
+    width: 600px;
+    height: 800px;
+    
+    
+    
+
+
+}
+.block_dos{
+    background-color: rgb(47, 233, 220);
+    width: 600px;
+    height: 110px;
+    position:fixed;
+    
+    
+
+}
+H1{
+    font-family: cursive;
+    color: black;
+    position: relative;
+    
+
+    
+
+}
+img{position: relative;
+    left: 15px;
+    width: 10%;
+    top: 20px;
+    margin-left: 2px;
+}#imagen_dos{
+    margin-left: 10px;
+margin-top: 220px;
+}
+h2 {
+    font-family: serif;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 220px;
+    
+} 
+#imagen_tres{
+    width: 10%;
+    margin-left:0px;
+}   
+p{
+    font-size: small;
+    
+}
+h3{
+    font-family: 'Times New Roman';
+    color:blue;
+    text-decoration: underline;
+    display: inline-block;
+    margin-left: 20px;
+}
